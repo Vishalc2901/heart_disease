@@ -1,12 +1,9 @@
 # Heart Disease Prediction - Deployment using Azure Web Apps
 
-### Project Demo URL : 
+### Project Demo URL : https://heartdis.azurewebsites.net
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.9](https://img.shields.io/badge/python-3.9-green) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
-•This repository consists of files required to deploy a Web App created with Flask on Microsoft Azure.# diabetes Heart Disease predictor The project helps the user to identify whether someone is suffering from Heart Disease by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.
-
-By using the statistical data about how certain aspects like BMI, Glucose level, Insulin level, age etc. Impact if an individual is prone to Heart Disease or not, the project will be able to tell the user if the person has Heart problems or not by entering those values. So in a way the project will help in monitoring the likelihood of someone developing Heart Disease. The project can be extended to include other diseases prediction which I will incorporate later down the road.
 
 ### Problem Statement/Oppurtunity:
 Heart diseases is a term covering any disorder of the heart. Heart diseases have become a major concern to deal with as studies show that the number of deaths due to heart diseases have increased significantly over the past few decades in India, in fact it has become the leading cause of death in India.
@@ -21,6 +18,6 @@ Machine learning techniques Provide better result for prediction by con- structi
 Azure Web Apps , AI+Machine Learning, Computer Vision, Static Web Apps, Web Apps
 
 ### Conclusion:
-Hence we succesfully predict that any person having Heart Disease or not.
+Hence with the help of this project we have succesfully predicted that any person having Heart Disease or not.
 
 Thank You
