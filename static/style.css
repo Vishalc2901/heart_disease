@@ -19,7 +19,8 @@ body{
 .container{
     padding: 30px;
 	position:relative;
-	background: linear-gradient(45deg, #161616, #383436, #161616);
+	/* background-color: #5f0202; */
+	background: linear-gradient(45deg, #5f0202, #383436, #161616);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
@@ -50,6 +51,7 @@ body{
 	color: #ffffff;
     font-style: italic;
     font-size: 14px;
+	font: italic 14px/1 "Calibri", sans-serif;
     margin: -5px 0 0;
 }
 
@@ -145,7 +147,7 @@ label {
 	flex-shrink: 0;
 	position:relative;
 	padding: 20px;
-	background: linear-gradient(45deg, #161616, #383436, #161616);
+	background: linear-gradient(45deg, #5f0202, #383436, #161616);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
